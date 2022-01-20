@@ -1,7 +1,6 @@
 # Needs Report
 
-Report on _Needs_ in ionizing radiation, prepared by the CIRMS
-science and technology committee
+Report on _Needs_ in ionizing radiation, prepared by the CIRMS Science and technology committee
 
 ## Executive Summary
 
@@ -15,13 +14,13 @@ CIRMS seeks to inform the national debate on issues involving ionizing radiation
 
 ### Dynamic Needs Report
 
-Through this online forum, CIRMS seeks to engage the community with the thoughtful insights and the results of vigorous discussions at our annual meetings and throughout the year. The goals of the Dynamic Needs Report is to track and keep up-to-date needs in the community that represent
+Through this online repository, CIRMS seeks to engage the community with the thoughtful insights and the results of vigorous discussions at our annual meetings and throughout the year. The goals of the Dynamic Needs Report is to track and keep up-to-date needs in the community that represent:
 
 1. areas in which federal regulations are insufficient to deal with rapidly evolving technologies;
 
 2. areas which member companies have identified as fertile areas for academia research which could lead to compelling graduate theses;
 
-3. areas in which national, state or local funding priorities seems to be misprioritized to address the mission of CIRMS; and
+3. areas in which national, state or local funding priorities seems to be mis-prioritized to address the mission of CIRMS; and
 
 4. areas in logistics and critical infrastructure which limit CIRMS and its affiliate labs, companies and academics from having access to traceable measurement standards in fields related to ionizing radiation.
 
