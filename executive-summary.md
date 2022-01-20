@@ -25,11 +25,16 @@ Through this online forum, CIRMS seeks to engage the community with the thoughtf
 
 4. areas in logistics and critical infrastructure which limit CIRMS and its affiliate labs, companies and academics from having access to traceable measurement standards in fields related to ionizing radiation.
 
+### Policy recommendations
 
-2020 Policy Recommendations: Attend CIRMS 2020 on April 20, 2020 to learn, participate, suggest and propose.
+#### 2020
+
+Attend CIRMS 2020 on April 20, 2020 to learn, participate, suggest and propose.
 
 
-2016 Policy Recommendations: CIRMS highlights current deficiencies and suggests informed dialog to address these 2016 Needs in Ionizing Radiation Measurements and Standards:
+#### 2016
+
+CIRMS highlights current deficiencies and suggests informed dialog to address these 2016 Needs in Ionizing Radiation Measurements and Standards:
 
 1. Secure the nation's electronic infrastructure: There exists a critical need for a traceable measurement standard for low alpha particle emissions to improve reliability of semiconductors and computer systems to support defense, aerospace, global banking, advanced manufacturing and the Internet of Things.
 
@@ -37,7 +42,9 @@ Through this online forum, CIRMS seeks to engage the community with the thoughtf
 
 3. Maintain US leadership in our future technological workforce: There exists a need for targeted funding for students to engage with scientific leaders in academia, federal labs, agencies and leading industry to sustain global leadership through an educated workforce which ensures stability of expertise in ionizing radiation measurements and standards.
 
-2011 Policy Recommendations: CIRMS highlights current deficiencies and suggests informed dialog to address these 2011 Needs in Ionizing Radiation Measurements and Standards:
+#### 2011
+
+CIRMS highlights current deficiencies and suggests informed dialog to address these 2011 Needs in Ionizing Radiation Measurements and Standards:
 
 1. US Congress must find ways to better inform the public perception of radiation or risk reducing scientific advantage, economic advantage and domestic job creation.
 
@@ -51,5 +58,6 @@ Through this online forum, CIRMS seeks to engage the community with the thoughtf
 
 6. A coherent long-term funding mechanism must be found to support maintenance of the mathematical modeling codes implementing the effects of ionizing radiation on materials.
 
+### Metrology Needs
 
-Metrology Needs: Each year, each of the subcommittees of the CIRMS Science and Technology Committee prepares a series of Measurement Program Descriptions (MPDs). These emerge through data sharing and focused discussion at CIRMS meetings and workshops. The MPDs offer guidelines for scientific funding agencies, corporations or academic investigators with ties to ionizing radiation about issues which the community feels are relevant today. These represent potential target areas for funding research, where federal regulation may soon change, and where new ideas and rules may propel emerging technologies into new markets. These needs are grouped into the 2011 CIRMS focus areas: 1) medical applications, 2) personnel and environmental radiation protection, 3) homeland security technologies, and 4) industrial applications and materials effects.
+Each year, each of the subcommittees of the CIRMS Science and Technology Committee prepares a series of Measurement Program Descriptions (MPDs). These emerge through data sharing and focused discussion at CIRMS meetings and workshops. The MPDs offer guidelines for scientific funding agencies, corporations or academic investigators with ties to ionizing radiation about issues which the community feels are relevant today. These represent potential target areas for funding research, where federal regulation may soon change, and where new ideas and rules may propel emerging technologies into new markets. These needs are grouped into the 2011 CIRMS focus areas: 1) medical applications, 2) personnel and environmental radiation protection, 3) homeland security technologies, and 4) industrial applications and materials effects.
