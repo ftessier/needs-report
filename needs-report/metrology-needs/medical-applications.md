@@ -49,58 +49,57 @@ each active area.
 
 ### High Priority
 
-- [ ] `A.19.0` [Standardization in Radiobiology](medical-applications/A.19.0-radiobiology.md)
+- [ ] `A.19.0` [Standardization in Radiobiology](medical-applications/A.19.0-standards-radiobiology.md)
 
-- [ ] `A.9.0` [Dosimetry for Proton Beam Therapy]
+- [ ] `A.09.0` [Dosimetry for Proton Beam Therapy](medical-applications/A.09.0-dosimetry-protons.md)
 
-- [ ] `A.15.0` [Standards for Small Fields in External Beam Therapy]
+- [ ] `A.15.0` [Standards for Small Fields in External Beam Therapy](medical-applications/A.15.0-standards-small-fields.md)
 
 ### Medium Priority
 
-- [ ] `A.8.1` [Liquid Based and Micro-Brachytherapy Sources]
+- [ ] `A.08.1` [Liquid Based and Micro-Brachytherapy Sources](medical-applications/A.08.1-brachytherapy-sources.md)
 
-- [ ] `A.13.0` [Enhanced Dosimetry Systems for CT Scans]
+- [ ] `A.13.0` [Enhanced Dosimetry Systems for CT Scans](medical-applications/A.13.0-dosimetry-ct.md)
 
-- [ ] `A.14.0` [Cone-Beam CT Dosimetry in Radiation Therapy] - maybe this can be combined into A.13.0
+- [ ] `A.14.0` [Cone-Beam CT Dosimetry in Radiation Therapy](medical-applications/A.14.0-dosimetry-cbct.md) - maybe this can be combined into A.13.0
 
-- [ ] `A.16.0` [Absorbed Dose to Water Standards for Megavoltage Therapy Beams] - (Modify for dissemination)
+- [ ] `A.16.0` [Absorbed Dose to Water Standards for Megavoltage Therapy Beams](medical-applications/A.16.0-standards-megavoltage-dose.md) - (Modify for dissemination)
 
-- [ ] `A.17.0` [3D Dosimeters for Non-Standard External Beam Therapy Dosimetry] - Larry suggested adding Presage and more description
+- [ ] `A.17.0` [3D Dosimeters for Non-Standard External Beam Therapy Dosimetry](medical-applications/A.17.0-dosimetry-therapy-non-standard.md) - Larry suggested adding Presage and more description
 
-- [ ] `A.18.0` [Air Kerma Standards for Ir-192 and Electronic Brachytherapy Sources] -
-(Updating)
+- [ ] `A.18.0` [Air Kerma Standards for Ir-192 and Electronic Brachytherapy Sources](medical-applications/A.18.0-standards-dose-brachytherapy.md) - (Updating)
 
-- [ ] `A.20.0` [Absorbed Dose to Water Standards for Low-Energy X-ray Beams] - (Updating)
+- [ ] `A.20.0` [Absorbed Dose to Water Standards for Low-Energy X-ray Beams](medical-applications/A.20.0-standards-dose-xrays.md) - (Updating)
 
 ### MPDs in progress and proposed
 
-- [ ] `A.21.0` [Standardizing Metrics and Methods for Weight Bearing 3D Imaging Devices in Orthopaedic Applications]
+- [ ] `A.21.0` [Standardizing Metrics and Methods for Weight Bearing 3D Imaging Devices in Orthopaedic Applications](medical-applications/A.21.0-standards-3d-orthopedic.md)
 
-- [ ] `A.22.0` [Dosimetry Measurement Protocol for Cone Beam CT Used in Weight Bearing 3D Imaging Devices]- (Updating)
+- [ ] `A.22.0` [Dosimetry Measurement Protocol for Cone Beam CT Used in Weight Bearing 3D Imaging Devices](medical-applications/A.22.0-dosimetry-cbct-3d.md) - (Updating)
 
-- [ ] `A.23.0` [Quantitative Imaging] - (Updating)
+- [ ] `A.23.0` [Quantitative Imaging](medical-applications/A.23.0-imaging-quantitative.md) - (Updating)
 
-- [ ] `A.24.0` [Calorimetry] - (Updating)
+- [ ] `A.24.0` [Calorimetry](medical-applications/A.24.0-calorimetry.md) - (Updating)
 
-- [ ] `A.25.0` [TRT Dosimetry]
+- [ ] `A.25.0` [Targeted Radionuclide Therapy Dosimetry](medical-applications/A.25.0-dosimetry-trt.md)
 
 ---
 ### Completed MPDs
 
-- [x] `A.1.0` [National Air-Kerma Standards for Mammography]
+- [x] `A.01.0` [National Air-Kerma Standards for Mammography](medical-applications/A.01.0-standards-mammography.md)
 
-- [x] `A.2.3` [Radioactivity Standards and Techniques for Nuclear Medicine]
+- [x] `A.02.3` [Radioactivity Standards and Techniques for Nuclear Medicine](medical-applications/A.02.3-standards-nuclear-medicine.md)
 
-- [x] `A.3.4` [Dose Mapping Systems for 3D Conformal Radiation Therapy and Intensity Modulated Radiation Therapy]
+- [x] `A.03.4` [Dose Mapping Systems for 3D Conformal Radiation Therapy and Intensity Modulated Radiation Therapy](medical-applications/A.03.4-mapping-dose-3d-crt-imrt.md)
 
-- [x] `A.4.1` [Absorbed-Dose-to-Water Standards for Photon External Beam Radiation Therapy]
+- [x] `A.04.1` [Absorbed-Dose-to-Water Standards for Photon External Beam Radiation Therapy](medical-applications/A.04.1-standards-photons.md)
 
-- [x] `A.5.0` [Air Kerma National Standards for Diagnostic X-ray Beams]
+- [x] `A.05.0` [Air Kerma National Standards for Diagnostic X-ray Beams](medical-applications/A.05.0-standards-kerma-xrays.md)
 
-- [x] `A.6.0` [National Air Kerma Strength Standards for Photon Brachytherapy Sources]
+- [x] `A.06.0` [National Air Kerma Strength Standards for Photon Brachytherapy Sources](medical-applications/A.06.0-standards-kerma-brachytherapy.md)
 
-- [x] `A 7.3` [Absorbed Dose Standards for Brachytherapy Sources]
+- [x] `A.07.3` [Absorbed Dose Standards for Brachytherapy Sources](medical-applications/A.07.3-standards-dose-brachytherapy.md)
 
-- [x] `A.10.0` [External Beam Therapy]
+- [x] `A.10.0` [External Beam Therapy](medical-applications/A.10.0-external-beam-therapy.md)
 
-- [x] `A.11.0` [Radionuclides for Imaging]
+- [x] `A.11.0` [Radionuclides for Imaging](medical-applications/A.11.0-radionuclide-imaging.md)
