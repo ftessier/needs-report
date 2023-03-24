@@ -1,6 +1,8 @@
 # `A.10` External Beam Therapy
 
-- [x] **Completed on March 19, 2014**
+- [x] Completed on March 19, 2014.
+
+---
 
 ## Objective
 

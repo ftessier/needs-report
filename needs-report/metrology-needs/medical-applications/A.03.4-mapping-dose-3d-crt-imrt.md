@@ -1,6 +1,8 @@
 # `A.03` Dose Mapping Systems for 3D Conformal Radiation Therapy and Intensity Modulated Radiation Therapy
 
-- [x] Completed on March 19, 2014
+- [x] Completed on March 19, 2014.
+
+---
 
 ## Objective
 
