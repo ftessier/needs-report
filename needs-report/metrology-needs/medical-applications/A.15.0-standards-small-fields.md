@@ -23,7 +23,7 @@ fields are becoming more widely utilized due to the advances in RT delivery
 devices. Some of these include banks of miniaturized lead leaves called micro
 multi-leaf collimators (MLCs). Another example is an adjustable iris for the
 CyberKnife delivery system that collimates fields down to 5mm diameter. There
-are expectations from most radiation oncology centres that treatment beams will
+are expectations from most radiation oncology centers that treatment beams will
 be available with smaller fields and that the medical physicist will commission
 them as accurately as the large fields.
 

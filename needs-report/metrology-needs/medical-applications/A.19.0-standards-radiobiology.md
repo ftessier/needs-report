@@ -38,10 +38,10 @@ radiation therapy dosimetry labs. Additionally, the articles being published do
 not report adequate details to reproduce the experiments performed.
 
 With better accuracy in radiation biology experiments, applications of this
-would reach into other specialities such as radiation protection, homeland
+would reach into other specialties such as radiation protection, homeland
 security, and the industry.
 
-> ![assets/SAARPpic.jpg](assets/SAARPpic.jpg)
+> ![SAARP irradiator](assets/A.19.0-01-saarp.jpg)
 >
 > **Figure 1** Schematic of the XSTRAHL SAARP irradiator platform (image obtained
 from Xstrahl.com).

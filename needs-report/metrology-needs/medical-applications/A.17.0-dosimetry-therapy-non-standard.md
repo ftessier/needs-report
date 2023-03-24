@@ -27,7 +27,7 @@ are not as widely available and are difficult to characterize. New formulations
 of gel / plastic dosimeters have shown promise to measure accurately the doses
 in non-standard external beam therapy dosimetry.
 
-> ![assets/A.17.0-3d-rt-dosimeter-01.jpg](assets/A.17.0-3d-rt-dosimeter-01.jpg)
+> ![3D RT dosimeter](assets/A.17.0-3d-rt-dosimeter-01.jpg)
 >
 > **Figure 2** Example of a 3D dosimeter comprised of a cavity designed to hold
 a stack of self-developing radiochromic film designed by Travis McCaw

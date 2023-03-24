@@ -32,7 +32,7 @@ generate a Bragg peak concentrating the ionizing radiation at a distance from
 the source which is dependent upon the proton beam energy, as illustrated in
 Figure 1.
 
-> ![assets/PDD_Comparison.png](assets/PDD_Comparison.png)
+> ![PDD comparison](assets/A.09.0-01-pdd-comparison.png)
 >
 > **Figure 1** Comparison of percent depth dose curves (PDDs) between different
 radiation therapy treatment modalities. Image reproduced with permission from
@@ -42,7 +42,7 @@ The number of proton therapy centers has been increasing in the US, which
 increases the need for standardization of dosimetry in clinical protocols. The
 trend in proton therapy centers is shown in Figure 2.
 
-> ![assets/ProtonCenters.png](assets/ProtonCenters.png)
+> ![Proton centers](assets/A.09.0-02-proton-centers.png)
 >
 > **Figure 2** Trend of proton therapy centers in the US. and cumulative
 patients treated since 1955.
