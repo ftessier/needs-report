@@ -1,6 +1,6 @@
 # `A.07` Absorbed Dose Standards for Brachytherapy Sources
 
-- [x] MPD Completed on March 19, 2014
+- [x] **Completed on March 19, 2014**
 
 ## Objective
 
