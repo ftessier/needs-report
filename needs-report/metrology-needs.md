@@ -6,7 +6,7 @@ area of expertise. These were arrived at through dialogue at CIRMS meetings and
 workshops. The MPDs are designated by letter apropos to subcommittee areas of
 interest:
 
-`A` [Medical Applications](metrology-needs/medical-applications.md)
+`A` [Medical Applications](metrology-needs/medical-applications/medical-applications.md)
 
 `B` Public and Environmental Protection
 
