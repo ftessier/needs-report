@@ -30,7 +30,7 @@ Unlike electron beams or photon beams from isotopes or X-ray sources, proton
 beams do not attenuate as the distance from the source increases. Proton beams
 generate a Bragg peak concentrating the ionizing radiation at a distance from
 the source which is dependent upon the proton beam energy, as illustrated in
-Figure A.9.0.
+Figure 1.
 
 > ![assets/PDD_Comparison.png](assets/PDD_Comparison.png)
 >
@@ -40,7 +40,7 @@ Wayne Newhauser's 2016 CIRMS Annual Meeting presentation.
 
 The number of proton therapy centers has been increasing in the US, which
 increases the need for standardization of dosimetry in clinical protocols. The
-trend in proton therapy centers is shown in Figure A.9.1.
+trend in proton therapy centers is shown in Figure 2.
 
 > ![assets/ProtonCenters.png](assets/ProtonCenters.png)
 >
