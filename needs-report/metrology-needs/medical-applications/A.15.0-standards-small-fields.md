@@ -15,7 +15,7 @@ treatment fields.
 - [ ] Partnerships between NIST, ADCL’s and the medical community are
 essential in this area.
 
- ## Background
+## Background
 
 Radiotherapy (RT) technology is rapidly evolving to narrow the treatment fields
 and spare the neighboring critical structures. In addition, very small treatment

@@ -1,11 +1,19 @@
 # `A.18.0` Air Kerma Standards for Ir-192 and Electronic Brachytherapy Sources
 
+## Objective
+
+`TODO`
+
 ## Actions
 
 - [ ] Manufacturers should be encouraged to work with NIST and secondary
 calibration laboratories to establish air-kerma standards for their sources.
 CIRMS can provide a channel for communication between the industrial sector and
 the academic/national laboratory setting.
+
+## Requirements
+
+`TODO`
 
 ## Background
 

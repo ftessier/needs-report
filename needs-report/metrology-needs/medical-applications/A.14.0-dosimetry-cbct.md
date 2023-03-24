@@ -1,5 +1,17 @@
 # `A.14.0` Cone-Beam CT Dosimetry in Radiation Therapy
 
+## Objective
+
+`TODO`
+
+## Actions
+
+`TODO`
+
+## Requirements
+
+`TODO`
+
 ## Background
 
 Cone-beam computed tomography (CBCT) is a 3D x-ray imaging technique

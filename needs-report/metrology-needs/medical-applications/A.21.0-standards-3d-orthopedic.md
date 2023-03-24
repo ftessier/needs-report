@@ -1,5 +1,17 @@
 # `A.21.0` Standardizing Metrics and Methods for Weight Bearing 3D Imaging Devices in Orthopedic Applications
 
+## Objective
+
+`TODO`
+
+## Actions
+
+`TODO`
+
+## Requirements
+
+`TODO`
+
 ## Background
 
 Currently radiologists and orthopedic doctors rely on non-weight bearing imaging

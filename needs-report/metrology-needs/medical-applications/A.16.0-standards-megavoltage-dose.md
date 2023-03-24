@@ -2,8 +2,8 @@
 
 ## Objective
 
-Develop a national standard of absorbed dose to water for therapy level
-megavoltage x-ray beams
+**Develop a national standard of absorbed dose to water for therapy level
+megavoltage x-ray beams**
 
 ## Actions
 
@@ -19,6 +19,10 @@ megavoltage x-ray beams
 - [ ] Investigations need to be conducted to evaluate what are best dosimeters
   to transfer standard measurements of dose delivered by megavoltage x-ray beams
   in water to the clinics.
+
+## Requirements
+
+`TODO`
 
 ## Background
 

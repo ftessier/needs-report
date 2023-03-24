@@ -1,5 +1,17 @@
 # `A.17.0` 3D Dosimeters for Non-Standard External Beam Therapy Dosimetry
 
+## Objective
+
+`TODO`
+
+## Actions
+
+`TODO`
+
+## Requirements
+
+`TODO`
+
 ## Background
 
 With the advent of sophisticated radiation therapy treatment fields, there is an

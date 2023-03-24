@@ -1,5 +1,19 @@
 # `A.20.0` Absorbed Dose to Water Standards for Low-Energy X-ray Beams
 
+## Objective
+
+`TODO`
+
+## Actions
+
+`TODO`
+
+## Requirements
+
+`TODO`
+
+## Background
+
 As more and more electronic brachytherapy source manufacturers bring their
 products to the United States, there is more demand for an absorbed dose to
 water standard instead of air-kerma. There would be fewer corrections to account
