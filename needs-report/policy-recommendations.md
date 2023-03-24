@@ -1,10 +1,11 @@
 # Policy recommendations
-### 2023
+
+## 2023
 
 Attend [CIRMS 2023 on April 17-19, 2023](https://cirms.org/cirms-meeting/) to
 learn, participate, suggest and propose.
 
-### 2021
+## 2021
 
 Attend [CIRMS 2020 on April 26-27, 2021](https://cirms.org/2021-cirms-meeting)
 to learn, participate, suggest and propose.
