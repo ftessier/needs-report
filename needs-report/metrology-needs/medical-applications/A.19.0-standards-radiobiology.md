@@ -2,8 +2,8 @@
 
 ## Objective
 
-Establish dosimetry standards for use in x-ray and radionuclide-based radiation
-biology programs.
+**Establish dosimetry standards for use in x-ray and radionuclide-based radiation
+biology programs.**
 
 ## Actions
 

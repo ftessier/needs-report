@@ -2,8 +2,8 @@
 
 ## Objective
 
-In conjunction with the medical community, develop protocols and techniques to
-be used to assess absorbed dose from high energy proton beams.
+**In conjunction with the medical community, develop protocols and techniques to
+be used to assess absorbed dose from high energy proton beams.**
 
 ## Actions
 
