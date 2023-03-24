@@ -5,6 +5,19 @@
 Establish dosimetry standards for use in x-ray and radionuclide-based radiation
 biology programs.
 
+## Actions
+
+- [ ] With cooperation between NIST, AAPM, AACR, and the NIH, standard
+measurement techniques need to be established through the use of
+standard operating procedures (SOPs) and dosimetry equipment
+validation. The measurement techniques must include NIST-traceability
+and appropriate primary standard development / utilization.
+
+## Requirements
+
+- [ ] Undetermined dollar amount - Partnerships between NIST, AAPM, AACR,
+and the medical community are essential in this area.
+
 ## Background
 
 With the increasing accuracy in radiation therapy and radiation biology
@@ -31,17 +44,5 @@ security, and the industry.
 > ![assets/SAARPpic.jpg](assets/SAARPpic.jpg)
 >
 > **Figure 1** Schematic of the XSTRAHL SAARP irradiator platform (image obtained
-from Xstrahl.com)
+from Xstrahl.com).
 
-## Action Items
-
-- [ ] With cooperation between NIST, AAPM, AACR, and the NIH, standard
-measurement techniques need to be established through the use of
-standard operating procedures (SOPs) and dosimetry equipment
-validation. The measurement techniques must include NIST-traceability
-and appropriate primary standard development / utilization.
-
-## Resource Requirements
-
-- [ ] Undetermined dollar amount - Partnerships between NIST, AAPM, AACR,
-and the medical community are essential in this area.
