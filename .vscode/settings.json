@@ -6,6 +6,8 @@
         "CBCT",
         "CDRH",
         "CIRMS",
+        "crosslinked",
+        "crosslinking",
         "Electrotechnical",
         "IMRT",
         "irradiator",
@@ -17,6 +19,7 @@
         "MOSFETs",
         "pedorthists",
         "radiochromic",
+        "retardancy",
         "Stereotactic",
         "VMAT",
         "Xoft"

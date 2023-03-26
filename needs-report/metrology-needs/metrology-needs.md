@@ -8,15 +8,15 @@ interest:
 
 `A` [Medical Applications](medical-applications/medical-applications.md)
 
-`B` Public and Environmental Protection
+`B` [Public and Environmental Protection](safety-security/safety-security.md)
 
-`C` Occupational Radiation Protection
+`C` [Occupational Radiation Protection](safety-security/safety-security.md)
 
-`D` Industrial Applications and Materials Effects
+`D` [Industrial Applications and Materials Effects](industrial-material/industrial-material.md)
 
-`E` Homeland Security|Homeland Security
+`E` [Homeland Security](safety-security/safety-security.md)
 
-`F` Computational Needs
+`F` [Computational Needs](computational-needs/computational-needs.md)
 
 Numbers are assigned to MDPs as they evolved with the last digit indicating the
 latest revision of an existing MPD with its first issuance starting at zero.
