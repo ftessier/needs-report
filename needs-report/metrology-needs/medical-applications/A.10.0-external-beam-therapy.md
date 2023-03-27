@@ -14,7 +14,7 @@
 
 ## Actions
 
-- [x] In collaboration with cancer treatment centers, NIST and the ADCL’s should
+- [x] In collaboration with cancer treatment centers, NIST and the ADCLs should
 harmonize protocols for external beam dose determinations. This will involve a
 selection of appropriate dosimeters for use in a clinical environment and
 studies amongst the existing external beam treatment center as to the
@@ -23,7 +23,7 @@ inter-center precision of such dosimeter systems.
 ## Requirements
 
 - [x] A minimum of 2 person-years per year over the next three year time period
-is required to launch into these objectives. Partnerships between NIST, ADCL’s
+is required to launch into these objectives. Partnerships between NIST, ADCLs
 and the medical community are essential in this area.
 
 ## Background

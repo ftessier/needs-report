@@ -6,8 +6,8 @@
 
 ## Objective
 
-**Establish standards for 3D dosimetry, quality assurance and treatment
-verification for conformal radiation therapy.**
+- Establish standards for 3D dosimetry, quality assurance and treatment
+verification for conformal radiation therapy.
 
 ## Actions
 

@@ -16,13 +16,13 @@ web site: www.cirms.org [^cirms]
 
 CIRMS has been very effective in the Medical Applications area by drawing
 together professionals from the academic and medical communities, from the US
-FDA’s Center for Devices and Radiological Health (CDRH), and by involvement of
+FDA's Center for Devices and Radiological Health (CDRH), and by involvement of
 the National Institutes of Health, in particular the National Cancer Institute,
 and of inter-agency groups such as the Biomedical Advanced Research and
 Development Authority (BARDA). One of CIRMS early success stories (MPD A.1.0 -
 [National Air-Kerma Standards for
 Mammography](National_Air-Kerma_Standards_for_Mammography "wikilink")) was the
-organization’s ability to pull together of various agencies to co-fund a needed
+organization's ability to pull together of various agencies to co-fund a needed
 radiation target facility at NIST so that air-kerma measurements for mammography
 equipment could be calibrated.
 

@@ -2,8 +2,8 @@
 
 ## Objective
 
-**Develop a coherent dosimetry system based upon NIST traceable dosimeters which
-can be used routinely in the administration of CT scans.**
+- Develop a coherent dosimetry system based upon NIST traceable dosimeters which
+can be used routinely in the administration of CT scans.
 
 ## Actions
 
@@ -43,11 +43,10 @@ themselves be a source of radiation induced malignancies.
 
 To ensure patient safety, industry standards for CT scanning equipment have to
 be established and then administered by appropriate authorities, such as the US
-Food and Drug Administration’s Center for Devices and Radiological Health.
+Food and Drug Administration's Center for Devices and Radiological Health.
 Reliance upon vendor generated protocols does not assure patient safety. In
 conjunction with this, a database has to be established within the Department of
 Health and Human Service which will catalog patient exposures with due respect
 to individual patient privacy rights. Radiologists need to be informed prior to
 administering a CT scan of how many times a given patient has had this
 procedure.
-

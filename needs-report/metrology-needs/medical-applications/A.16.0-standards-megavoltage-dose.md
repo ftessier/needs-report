@@ -2,8 +2,8 @@
 
 ## Objective
 
-**Develop a national standard of absorbed dose to water for therapy level
-megavoltage x-ray beams**
+- Develop a national standard of absorbed dose to water for therapy level
+megavoltage x-ray beams
 
 ## Actions
 

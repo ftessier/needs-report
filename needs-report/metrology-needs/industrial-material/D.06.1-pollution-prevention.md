@@ -52,7 +52,7 @@ processing also eliminates some of these sources for greenhouse gases.
 Low-energy electron beams are also very efficient in converting incoming line
 power electricity into useful ionizing radiation, between 65% to 80% of
 incoming power results in useful EB output. The Industry Working Group at the
-US Department of Energy conference on “Accelerators for America’s Future” held
+US Department of Energy conference on “Accelerators for America's Future” held
 in Washington, DC, in October 2009, estimated that if just one industry, coil
 coating, were to adopt EB processing, there would be sufficient energy savings
 to reduce power demand equivalent to that of a mid-sized power generating

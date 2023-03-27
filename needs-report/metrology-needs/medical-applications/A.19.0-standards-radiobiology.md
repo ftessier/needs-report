@@ -2,8 +2,8 @@
 
 ## Objective
 
-**Establish dosimetry standards for use in x-ray and radionuclide-based radiation
-biology programs.**
+- Establish dosimetry standards for use in x-ray and radionuclide-based radiation
+biology programs.
 
 ## Actions
 
@@ -45,4 +45,3 @@ security, and the industry.
 >
 > **Figure 1** Schematic of the XSTRAHL SAARP irradiator platform (image obtained
 from Xstrahl.com).
-

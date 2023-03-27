@@ -23,7 +23,7 @@ maintain the MPDs listed below.
 
 ## Emerging Areas
 
-- [ ] rompt gamma and prompt neutron applications and dosimetry
+- [ ] Prompt gamma and prompt neutron applications and dosimetry
 - [ ] Alpha/Beta Standards for contamination
 - [ ] Measurements of Incinerator Products (Biological Waste)
 

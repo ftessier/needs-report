@@ -2,7 +2,7 @@
 
 ## Objective
 
-**Establish and disseminate standards for Small Fields in External Beam Therapy.**
+Establish and disseminate standards for Small Fields in External Beam Therapy.
 
 ## Actions
 
@@ -12,7 +12,7 @@ treatment fields.
 
 ## Requirements
 
-- [ ] Partnerships between NIST, ADCL’s and the medical community are
+- [ ] Partnerships between NIST, ADCLs and the medical community are
 essential in this area.
 
 ## Background

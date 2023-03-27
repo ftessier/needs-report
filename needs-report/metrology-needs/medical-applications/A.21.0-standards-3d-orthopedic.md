@@ -115,5 +115,3 @@ evaluating orthotics. How can we improve the current practice?](http://cirms.org
 - **Regina Fulkerson, Ph. D., RKF Consultants**
 
     [EQINA, A quick overview of a weight bearing 3D imaging system](http://cirms.org/pdf/cirms2017/MWG-Session-III-Fulkerson-Regina-Rev-20170404.pdf)
-
-

@@ -20,7 +20,6 @@ parameter.
 
 ## Specifications
 
-
 ### Dynamic Mechanical Analyzer (DMA)
 
 - [Mettler-Toledo](https://www.mt.com/us/en/home/products/Laboratory_Analytics_Browse/TA_Family_Browse/DMA.html)
@@ -79,7 +78,6 @@ parameter.
 ### Cleanroom Lithography
 
 - [UT Dallas Cleanroom Tools](https://research.utdallas.edu/cleanroom/tools)
-
 - Heidelberg DWL66 Laser Writer
 - Quintel Q4000-6 Contact Printer
 - Karl Suss MA6B Contact Printer

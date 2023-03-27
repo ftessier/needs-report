@@ -40,7 +40,7 @@ Technetium-99m (a meta-stable isotope) is derived from molybdenum-99, which, as
 noted in the first Policy Consideration above, is now in a critical short
 supply. Historically, molybdenum-99 has been produced as a by-product from
 certain nuclear reactors, now being shut-down. At the US Department of Energy
-conference on "Accelerators for America’s Future,” held in Washington, DC, in
+conference on "Accelerators for America's Future,” held in Washington, DC, in
 October 2009, it was shown that molybdenum-99 could also be produced using a
 variation of existing cyclotron technology. This approach would eliminate the US
 presumed need to construct nuclear facilities for the express purpose of

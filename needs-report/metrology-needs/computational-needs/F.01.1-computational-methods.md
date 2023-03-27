@@ -53,11 +53,11 @@ platform, maintains a database of properties of commonly used materials, and
 generates easily understood graphics directly.
 
 Within the US, access to codes is inhibited by a complex arrangement with the
-Department of Energy’s Oak Ridge National Laboratory. Royalty fees for alleged
+Department of Energy's Oak Ridge National Laboratory. Royalty fees for alleged
 maintenance of these codes are charged on a single-user basis. Many of these
 codes have been developed by taxpayer funded efforts, such as those developed
-at NIST. It was the opinion of an Industry Working Group at the DOE’s 2009
-conference on “Accelerators for America’s Future,” that such intellectual
+at NIST. It was the opinion of an Industry Working Group at the DOE's 2009
+conference on “Accelerators for America's Future,” that such intellectual
 property developed at public expense should be widely available to the public
 at minimal service costs. In the computational area, this would facilitate the
 use of these codes in the teaching environment and broaden the end-user use of

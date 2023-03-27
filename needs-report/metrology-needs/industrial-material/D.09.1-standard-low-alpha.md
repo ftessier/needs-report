@@ -9,7 +9,6 @@ reliability of semiconductors and computer systems
 calibrate detectors of ultra-low levels of ambient radiation that affects all
 chips, circuits and electronic devices.
 
-
 ## Actions
 
 We seek congressional allocation of funds of \$10 million in capital costs over

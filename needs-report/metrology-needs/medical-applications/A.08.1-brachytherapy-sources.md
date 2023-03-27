@@ -2,8 +2,8 @@
 
 ## Objective
 
-**Develop a NIST traceable standard for liquid-based brachytherapy sources, and
-micro-brachytherapy sources, and transfer this standard to the ADCLs.**
+- Develop a NIST traceable standard for liquid-based brachytherapy sources, and
+micro-brachytherapy sources, and transfer this standard to the ADCLs.
 
 ## Actions
 

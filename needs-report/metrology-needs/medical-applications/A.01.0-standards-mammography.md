@@ -34,11 +34,11 @@ choice of operating voltages, one can match either the half value layer or the
 homogeneity coefficient but not both beam quality parameters for molybdenum
 anodes.
 
-In the United States, the Food and Drug Administration’s Center for Devices and
+In the United States, the Food and Drug Administration's Center for Devices and
 Radiological Health (CDRH) is responsible for calibrating all the instruments
 that the government inspectors will use during the yearly inspection of each
 mammography facility. The CDRH X ray Calibration Laboratory is accredited by
-NIST’s National Voluntary Laboratory Accreditation Program. CDRH is establishing
+NIST's National Voluntary Laboratory Accreditation Program. CDRH is establishing
 a new facility within the Mammography Calibration Laboratory explicitly to
 calibrate instruments in appropriate X ray beams. Since there are no suitable
 national standards in the United States, CDRH has opted to send its reference
@@ -46,7 +46,7 @@ ionization chamber to PTB to establish traceability to a national standard.
 
 To perform the annual on site evaluation, the medical physicists will presumably
 have their instruments calibrated at one of the American Association of
-Physicists in Medicine’s (AAPM) Accredited Dosimetry Calibration Laboratories
+Physicists in Medicine's (AAPM) Accredited Dosimetry Calibration Laboratories
 (ADCL). One of these laboratories, at the University of Wisconsin, is developing
 a free-air chamber to measure air kerma from their mammography X ray units. In
 principle, the free-air chamber is an absolute device, but in practice it is

@@ -2,13 +2,13 @@
 
 ## Objective
 
-**In conjunction with the medical community, develop protocols and techniques to
-be used to assess absorbed dose from high energy proton beams.**
+- In conjunction with the medical community, develop protocols and techniques to
+be used to assess absorbed dose from high energy proton beams.
 
 ## Actions
 
 - [ ] In collaboration with proton beam cancer treatment centers, NIST and the
-ADCL’s should harmonize protocols for proton beam dose determinations. This will
+ADCLs should harmonize protocols for proton beam dose determinations. This will
 involve a selection of appropriate dosimeters for use in a clinical environment
 and studies amongst the existing proton beam treatment center as to the
 inter-center precision of such dosimeter systems.
@@ -16,7 +16,7 @@ inter-center precision of such dosimeter systems.
 ## Requirements
 
 - [ ] A minimum of 2 person-years per year over the next three year time period
-is required to launch into these objectives. Partnerships between NIST, ADCL’s
+is required to launch into these objectives. Partnerships between NIST, ADCLs
 and the medical community are essential in this area.
 
 ## Background

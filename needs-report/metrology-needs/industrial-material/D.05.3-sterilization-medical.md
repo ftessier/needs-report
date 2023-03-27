@@ -38,7 +38,7 @@ delivery systems, wound care treatment coverings and complex plastic filtration
 units are being sterilized by radiation processes. Almost all major producers
 of medical devices and numerous small companies use radiation sterilization in
 their device manufacturing processes. Although in the United States the Food
-and Drug Administration’s Center for Devices and Radiological Health does not
+and Drug Administration's Center for Devices and Radiological Health does not
 prescribe a preferred means for attaining sterility, it does require that
 medical devices be made under current Good Manufacturing Practices (GMP) and in
 doing so requires a complete protocol of record keeping, traceability, written
@@ -55,7 +55,7 @@ guide the end-user to apropos dosimeter selection based on data. This leaves
 the user with an incoherent metrology system and renders the user subject to
 competing vendor claims.
 
-The International Atomic Energy Agency’s Collaborating Center for Radiation
+The International Atomic Energy Agency's Collaborating Center for Radiation
 Processing and Industrial Dosimetry has conducted two inter-laboratory studies
 involving nine laboratories. These inter-laboratory tests showed that only
 alanine dosimeters would be suitable as reference and transfer dosimeters
@@ -74,7 +74,7 @@ infra-red analysis to determine transvinylene double bonds in
 polyethylene, is also used as the in-house control method by the two
 largest users of industrial electron beam processing. The observation of
 the transvinylene development in polyethylene goes back to the late
-1950’s when it was first found that polyethylene would cross-link when
+1950's when it was first found that polyethylene would cross-link when
 exposed to ionizing radiation from an electron beam. Since transvinylene
 infra-red analysis technique has been successfully used by the major
 users of EB processing and has been adopted as a standard by the medical

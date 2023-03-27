@@ -3,7 +3,7 @@
 ## Objective
 
 Develop a coherent metrology program to meet the diverse and numerous demands
-of Department of Energy’s Advanced Fuel Cycle Initiative involving a plurality
+of Department of Energy's Advanced Fuel Cycle Initiative involving a plurality
 of isotopes in conjunction with DOE and university laboratories. (needs
 editing)
 
