@@ -31,7 +31,7 @@ maintain the MPDs listed below.
 
 - [ ] `B.07.2` [Traceability to NIST for Reference, Monitoring and Service Laboratories](./B.07.2-traceability-labs.md)
 
-- [ ] `B.08.2` [Sorption of Radioactive Elements in Contaminated Soils and Sediments and Urban Structural and Other Materials]()
+- [ ] `B.08.2` [Sorption of Radioactive Elements in Contaminated Soils and Sediments and Urban Structural and Other Materials](./B.08.2-radioactive-sorption.md)
 
 - [ ] `B.09.2` [Atom-Counting Measurement Techniques for Environmental Monitoring]()
 
