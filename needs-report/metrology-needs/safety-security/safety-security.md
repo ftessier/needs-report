@@ -37,7 +37,7 @@ maintain the MPDs listed below.
 
 - [ ] `C.03.4` [Intercomparison Transfer Standards for Neutron Source Calibrations](./C.03.4-calibration-neutron-source.md)
 
-- [ ] `C.04.4` [Improvements in In-Vivo Radionuclide Metrology]()
+- [ ] `C.04.4` [Improvements in In-Vivo Radionuclide Metrology](./C.04.4-radionuclides-in-vivo.md)
 
 - [ ] `C.17.3` [Improved Radiation Measurement Infrastructure for Occupational Radiation Protection]()
 
