@@ -59,7 +59,7 @@ of Food Irradiation Community
 
 ## 2018 Discussion Topics
 
-- D.18.1 [ Forum for Access to Specialty Tools in IRMS](IRMS_Tools)
+- D.18.1 [ Forum for Access to Specialty Tools in IRMS](./D.18.1-access-speciatly-tools.md)
 
 - D.18.2 (...)
 
@@ -67,37 +67,35 @@ of Food Irradiation Community
 
 *Specific action items are active for consideration by the community.*
 
-- [ ] `4.27.15` *(draft form - proposed)* [Roadmap to Resource Gammacell 220 Irradiators](Roadmap_to_Resource_Gammacell_220_Irradiators)
+- [ ] `4.27.15` *(draft form - proposed)* [Roadmap to Resource Gammacell 220 Irradiators](./D.09.x-draft-gammacell-220.md)
 
-- [ ] `D.09.1` [Low Alpha Standard](Low_Alpha_Standard)
+- [ ] `D.09.1` [Low Alpha Standard](./D.09.1-standard-low-alpha.md)
 
-- [ ] `D.03.4` [Radiation Hardness Testing and Mixed-Field Radiation Effects](Radiation_Hardness_Testing_and_Mixed-Field_Radiation_Effects)
+- [ ] `D.03.4` [Radiation Hardness Testing and Mixed-Field Radiation Effects](./D.03.4-test-hardness-effects.md)
 
-- [ ] `D.05.3` [Medical Device Sterilization](Medical_Device_Sterilization)
+- [ ] `D.05.3` [Medical Device Sterilization](./D.05.3-sterilization-medical.md)
 
-- [ ] `D.06.1` [Pollution Prevention](Pollution_Prevention) (P2)
+- [ ] `D.06.1` [Pollution Prevention](./D.06.1-pollution-prevention.md) (P2)
 
-- [ ] `D.07.3` [Food Irradiation](Food_Irradiation)
+- [ ] `D.07.3` [Food Irradiation](./D.07.3-food-irradiation.md)
 
-- [ ] `D.08.1` [Low-voltage Electron Beam and X-ray Dosimetry](Low-voltage_Electron_Beam_and_X-ray_Dosimetry) (80 to 300 KeV)
+- [ ] `D.08.1` [Low-voltage Electron Beam and X-ray Dosimetry](./D.08.1-dosimetry-ebeam-low-energy.md) (80 to 300 KeV)
 
-- [ ] `E.05.0`[^joint-1] [Traceability of Neutron Cross Sections, Measurements, and Detector Development](Traceability_of_Neutron_Cross_Sections,_Measurements,_and_Detector_Development)
+- [ ] `E.05.0` [Traceability of Neutron Cross Sections, Measurements, and Detector Development](./E.05.0-traceability-neutrons.md)[^joint-1]
 
 [^joint-1]: Joint MPD with [Homeland Security](Homeland_Security)
 
 ## Proposed MPDs (as of October 2012)
 
-- [ ] `D.08.2` [High-energy Electron Beam Dosimetry](High-energy_Electron_Beam_Dosimetry) (> 300 KeV)
+- [ ] `D.08.2` [High-energy Electron Beam Dosimetry](./D.08.2-dosimetry-ebeam-high-energy.md) (> 300 KeV)
 
-- [ ] `D.09.1` [Fast Neutron Reactor Research and Development](Fast_Neutron_Reactor_Research_and_Development)
+- [ ] `D.09.1` [Fast Neutron Reactor Research and Development](./D.09.1-research-fast-neutrons.md)
 
-- [ ] `D.09.2` [Reprocessing of Used Nuclear Fuel](Reprocessing_of_Used_Nuclear_Fuel)
+- [ ] `D.09.2` [Reprocessing of Used Nuclear Fuel](./D.09.3-dose-temperature-polymers.md)
 
-- [ ] `D.09.3`[^joint-2] [Link Absorbed Dose and Irradiation Temperature to Properties of
-Polymeric
-Materials](Link_Absorbed_Dose_and_Irradiation_Temperature_to_Properties_of_Polymeric_Materials)
+- [ ] `D.09.3` [Link Absorbed Dose and Irradiation Temperature to Properties of Polymeric Materials](./D.09.3-dose-temperature-polymers.md)[^joint-2]
 
-- [ ] `D.10.0` [Positronium Production](Positronium_Production)
+- [ ] `D.10.0` [Positronium Production](./D.10.0-production-positronium.md)
 
 [^joint-2]: Joint MPD with [Medical Applications](Medical_Applications)
 
@@ -105,8 +103,8 @@ Materials](Link_Absorbed_Dose_and_Irradiation_Temperature_to_Properties_of_Polym
 
 *All action items have been completed or are inactive.*
 
-- [x] `D.01.0` (Watchlisted in 2011) [High-Dose Calibrations for Electron-Beam Processing](High-Dose_Calibrations_for_Electron-Beam_Processing)
+- [x] `D.01.0` [High-Dose Calibrations for Electron-Beam Processing](./D.01.0-calibration-high-dose-ebeam.md) (Watchlisted in 2011)
 
-- [x] `D.02.0` (Watchlisted in 2011) [Radiation Measurements for Gamma-Radiation Processing](Radiation_Measurements_for_Gamma-Radiation_Processing)
+- [x] `D.02.0` [Radiation Measurements for Gamma-Radiation Processing](./D.02.0-measure-gamma-processing.md) (Watchlisted in 2011)
 
-- [x] `D.04.4` (Watchlisted in 2012) [Neutron Dosimetry for Reactor Pressure Vessel Surveillance](Neutron_Dosimetry_for_Reactor_Pressure_Vessel_Surveillance)
+- [x] `D.04.4` [Neutron Dosimetry for Reactor Pressure Vessel Surveillance](./D.04.4-dosimetry-neutron-surveillance.md) (Watchlisted in 2012)
