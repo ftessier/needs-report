@@ -81,7 +81,7 @@ of Food Irradiation Community
 
 - [ ] `D.08.1` [Low-voltage Electron Beam and X-ray Dosimetry](./D.08.1-dosimetry-ebeam-low-energy.md) (80 to 300 KeV)
 
-- [ ] `E.05.0` [Traceability of Neutron Cross Sections, Measurements, and Detector Development](./E.05.0-traceability-neutrons.md)[^joint-1]
+- [ ] `E.05.0` [Traceability of Neutron Cross Sections, Measurements, and Detector Development](../safety-security/E.05.0-traceability-neutrons.md)[^joint-1]
 
 [^joint-1]: Joint MPD with [Homeland Security](Homeland_Security)
 
