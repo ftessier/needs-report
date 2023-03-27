@@ -18,6 +18,6 @@ planning and fulfilling regulatory constraints.
 Recognizing this broad-based use of computational methods, a Measurement Program
 Descriptions has been modified to express current computational needs.
 
-## MPDs
+## Measurement Program Descriptions (MPDs)
 
-- [ ] `F.1.1.` [Improvements to Computational Methods for Radiation Dosimetry](Improvements_to_Computational_Methods_for_Radiation_Dosimetry)
+- [ ] `F.01.1.` [Improvements to Computational Methods for Radiation Dosimetry](F.01.1-computational-methods.md)

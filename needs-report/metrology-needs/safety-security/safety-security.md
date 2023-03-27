@@ -27,7 +27,7 @@ maintain the MPDs listed below.
 - [ ] Alpha/Beta Standards for contamination
 - [ ] Measurements of Incinerator Products (Biological Waste)
 
-## Existing MPDs
+## Existing Measurement Program Descriptions (MPDs)
 
 - [ ] `B.07.2` [Traceability to NIST for Reference, Monitoring and Service Laboratories](Traceability_to_NIST_for_Reference,_Monitoring_and_Service_Laboratories)
 
@@ -45,7 +45,7 @@ maintain the MPDs listed below.
 
 - [ ] `E.01.1` [Emergency Radiological Response Metrology Infrastructure](Emergency_Radiological_Response_Metrology_Infrastructure)
 
-## New MPDs
+## New Measurement Program Descriptions (MPDs)
 
 - [ ] `C.21.0` [Measurement and Calibration Methods for Surface Contamination Monitoring](Measurement_and_Calibration_Methods_for_Surface_Contamination_Monitoring)
 

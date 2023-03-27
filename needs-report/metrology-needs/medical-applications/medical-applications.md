@@ -45,7 +45,7 @@ Applications subcommittee. One or two page descriptions of the active MPDs
 follow. These present the objectives, some background information and needs in
 each active area.
 
-## Active Measurement Program Descriptions (MPDs)
+## Measurement Program Descriptions (MPDs)
 
 ### High Priority
 

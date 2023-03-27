@@ -63,7 +63,7 @@ of Food Irradiation Community
 
 - D.18.2 (...)
 
-## Active MPDs
+## Measurement Program Descriptions (MPDs)
 
 *Specific action items are active for consideration by the community.*
 
