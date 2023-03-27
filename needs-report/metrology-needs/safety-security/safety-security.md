@@ -35,7 +35,7 @@ maintain the MPDs listed below.
 
 - [ ] `B.09.2` [Atom-Counting Measurement Techniques for Environmental Monitoring](./B.09.2-atom-counting.md)
 
-- [ ] `C.03.4` [Intercomparison Transfer Standards for Neutron Source Calibrations]()
+- [ ] `C.03.4` [Intercomparison Transfer Standards for Neutron Source Calibrations](./C.03.4-calibration-neutron-source.md)
 
 - [ ] `C.04.4` [Improvements in In-Vivo Radionuclide Metrology]()
 
