@@ -33,7 +33,7 @@ maintain the MPDs listed below.
 
 - [ ] `B.08.2` [Sorption of Radioactive Elements in Contaminated Soils and Sediments and Urban Structural and Other Materials](./B.08.2-radioactive-sorption.md)
 
-- [ ] `B.09.2` [Atom-Counting Measurement Techniques for Environmental Monitoring]()
+- [ ] `B.09.2` [Atom-Counting Measurement Techniques for Environmental Monitoring](./B.09.2-atom-counting.md)
 
 - [ ] `C.03.4` [Intercomparison Transfer Standards for Neutron Source Calibrations]()
 
