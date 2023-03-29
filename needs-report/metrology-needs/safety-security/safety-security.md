@@ -41,7 +41,7 @@ maintain the MPDs listed below.
 
 - [ ] `C.17.3` [Improved Radiation Measurement Infrastructure for Occupational Radiation Protection](./C.17.3-protection-occupational.md)
 
-- [ ] `C.20.2` [Implementation of Support for Personnel Dosimetry Proficiency Testing per ANSI N13.11]()
+- [ ] `C.20.2` [Implementation of Support for Personnel Dosimetry Proficiency Testing per ANSI N13.11](./C.20.2-testing-dosimetry-ansi.md)
 
 - [ ] `E.01.1` [Emergency Radiological Response Metrology Infrastructure]()
 
