@@ -47,7 +47,7 @@ maintain the MPDs listed below.
 
 ## New Measurement Program Descriptions (MPDs)
 
-- [ ] `C.21.0` [Measurement and Calibration Methods for Surface Contamination Monitoring]()
+- [ ] `C.21.0` [Measurement and Calibration Methods for Surface Contamination Monitoring](./C.21.0-surface-contamination.md)
 
 - [ ] `E.04.0` [Traceability for High Energy Photon Dosimetry for Non-Intrusive Inspection Systems]()
 
